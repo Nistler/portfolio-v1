@@ -1,0 +1,8 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# misc
+source
+.vscode
+.idea
+portfolio-v1.zip
+
